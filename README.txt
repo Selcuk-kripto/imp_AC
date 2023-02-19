@@ -1,4 +1,6 @@
-The code "crypt_prop" finds cryptographic properties (nonlinearity, absolute indicator, algebraic degree, balancedness) of the Boolean functions given in Table 1 of the paper "Improved autocorrelation properties of balanced Boolean functions on even number of variables" by Selçuk Kavut, Hakan Kutucu, Subhamoy Maitra, Erol Özçekiç. The code is compiled with Microsoft Visual C++ 2010.
+The code "crypt_prop" finds cryptographic properties (nonlinearity, absolute indicator, algebraic degree, balancedness) of the Boolean functions
+given in Table 1 of the paper "Improved autocorrelation properties of balanced Boolean functions on even number of variables" by 
+Selçuk Kavut, Hakan Kutucu, Subhamoy Maitra, Erol Özçekiç. The code is compiled with Microsoft Visual C++ 2010.
 
 The following files are needed to run the code.
 "tt8.txt": Balanced 8-variable functions with nonlinearity 116, absolute indicator 16, and algebraic degree 7
