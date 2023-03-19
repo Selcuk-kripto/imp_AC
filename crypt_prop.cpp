@@ -2,8 +2,7 @@
 // This code finds cryptographic properties (nonlinearity, absolute indicator, 
 // algebraic degree, balancedness) of the Boolean functions given in
 // Table 1 of the paper "Improved autocorrelation properties of balanced Boolean 
-// functions on even number of variables" by Selçuk Kavut, Hakan Kutucu, 
-// Subhamoy Maitra, Erol Özçekiç.
+// functions on even number of variables" by SelÃ§uk Kavut, Hakan Kutucu, Erol Ã–zÃ§ekiÃ§.
 
 // The truth tables of these Boolean functions are given by the following files:
 // "tt8.txt", "tt10_1.txt", "tt10_2.txt", "tt12_1.txt", "tt12_2.txt", "tt12_3.txt", 
