@@ -1,6 +1,7 @@
 The code "crypt_prop.cpp" finds cryptographic properties (nonlinearity, absolute indicator, algebraic degree, balancedness) 
-of the Boolean functions given in Table 1 of the paper "Improved autocorrelation properties of balanced Boolean functions 
-on even number of variables" by Selçuk Kavut, Hakan Kutucu, Erol Özçekiç. 
+of the Boolean functions given in Table 1 of the paper "Genetic Approach to Improve Cryptographic Properties of Balanced 
+Boolean Functions Using Bent Functions" by Selçuk Kavut, Hakan Kutucu, Erol Özçekiç. 
+
 The code is compiled with Microsoft Visual C++ 2010.
 
 The following files (available in "tts.rar") are needed to run the code.
